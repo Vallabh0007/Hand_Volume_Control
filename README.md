@@ -40,7 +40,7 @@ VolumeHandControl.py
 
 ## Application Interface
 ### `Detect Hand`
-![Capture Background](imagesandgifs/capturingback.gif)
+![Capture Background](https://github.com/Vallabh0007/Hand_Volume_Control/blob/main/img/1.png)
 
 ### `Data Thumb & Index finger`
 ![Collect Data](imagesandgifs/datamode.png)
