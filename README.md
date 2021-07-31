@@ -35,38 +35,19 @@ VolumeHandControl.py
 ```
 6) Some of the features have been included in the snippets in the Application Interface section
 
-## Gesture Recognition Model
-The model was built to recognize 7 different hand gestures and the absence of a hand. The encoding of the gestures is included in the demo file under the variable `GESTURE_ENCODINGS`. 
-List of gestures recognized (in the order of the encodings):
-1. `Fist`</br>
-![Fist](imagesandgifs/fist.png)
-2. `Five`</br>
-![Five](imagesandgifs/five.png)
-3. `None`</br>
-![None](imagesandgifs/none.png)
-4. `Okay`</br>
-![Okay](imagesandgifs/okay.png)
-5. `Peace`</br>
-![Peace](imagesandgifs/peace.png)
-6. `Rad`</br>
-![Rad](imagesandgifs/rad.png)
-7. `Straight`</br>
-![Straight](imagesandgifs/straight.png)
-8. `Thumbs`</br>
-![Thumbs](imagesandgifs/thumbs.png)
+
 
 
 ## Application Interface
-### `Capture Background`
+### `Detect Hand`
 ![Capture Background](imagesandgifs/capturingback.gif)
 
-### `Data Collection Mode`
+### `Data Thumb & Index finger`
 ![Collect Data](imagesandgifs/datamode.png)
 ![Collect Data 2](imagesandgifs/collecting_data.gif)
 
-### `Testing Model Mode`
+### `Alter volume according to hand gestures`
 ![Test Model](imagesandgifs/testing_model.gif)
 
 
 
-## Questions/Contributions/Future Work
